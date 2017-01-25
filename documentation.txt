@@ -1,0 +1,9 @@
+data base structure
+	design on excel
+	implement on SQL yog
+basic front end
+connect to data base
+login simulation
+session simulation
+destroy session simulation
+trial
